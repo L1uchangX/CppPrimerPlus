@@ -3,9 +3,17 @@
 
 #include <iostream>
 
+#include "src/ch03/dealing_with_data.h"
+
+void ch03HW()
+{
+    inch2feet();
+}
+
 int main()
 {
     std::cout << "Hello World!\n";
+    ch03HW();
 }
 
 // 运行程序: Ctrl + F5 或调试 >“开始执行(不调试)”菜单

@@ -13,10 +13,21 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="源文件\3 Dealing with Data">
+      <UniqueIdentifier>{675d5555-f28a-40c0-a5dc-c9d111849c0b}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="CppPrimerPlus.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="src\ch03\dealing_with_data.cpp">
+      <Filter>源文件\3 Dealing with Data</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="src\ch03\dealing_with_data.h">
+      <Filter>源文件\3 Dealing with Data</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

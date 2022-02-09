@@ -140,6 +140,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="CppPrimerPlus.cpp" />
+    <ClCompile Include="src\ch03\dealing_with_data.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="src\ch03\dealing_with_data.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
